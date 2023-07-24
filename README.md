@@ -15,6 +15,7 @@ _Use GitHub Actions to publish your project to a Docker image._
 
 <!--
   <<< Author notes: Step 3 >>>
+
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
